@@ -8,8 +8,8 @@ My *primary responsibility* was supporting the Network Engineers, who were ultim
 
 My most significant project was deploying a robust virtualization cluster. The entire infrastructure was failing without any budget for repair, making capacity planning exceptionally difficult. Using clearly defined capacity requirements, I worked with an external vendor who provided a single-socket server that outperformed our dual-socket plan, *reducing hardware and electricity costs by over 30%*. I collaborated with the Finance team to build an asset depreciation plan to ensure we have budget for future needs.
 
-BBB
-
+<br>
+<br>
 Rather than lifting existing servers into the new cluster, the migration became a full rebuild that placed every server under configuration management. This also *resolved many long-standing security issues* previously deferred due to technical debt and resource constraints. After one year, only three servers remained to be migrated, blocked by the expectation of customer-visible outages and the need for further network changes before proceeding.
 
 **System Administration:**
