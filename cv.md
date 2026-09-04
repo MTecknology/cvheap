@@ -3,7 +3,7 @@
 ## Utah Broadband - Senior Systems Engineer
 
 I joined Utah Broadband as the sole Systems Engineer for AireBeam Fiber Internet, a sister company delivering *high-speed fixed wireless internet* to over 8,000 underserved rural households. This role covered system administration, network engineering, and security compliance needs typical for **Small and Medium Businesses (SMBs)**.
-
+abc
 My *primary responsibility* was supporting the Network Engineers, who were ultimately responsible for *customer and employee support*. This included reviewing RADIUS logs, deciphering MySQL schemas, writing utilities to automate common networking tasks, rebuilding aging servers with configuration management, and creating redundancy within budget constraints.
 
 My most significant project was deploying a robust virtualization cluster. The entire infrastructure was failing without any budget for repair, making capacity planning exceptionally difficult. Using clearly defined capacity requirements, I worked with an external vendor who provided a single-socket server that outperformed our dual-socket plan, *reducing hardware and electricity costs by over 30%*. I collaborated with the Finance team to build an asset depreciation plan to ensure we have budget for future needs.
@@ -179,7 +179,7 @@ Following a series of organizational restructures, my focus became ensuring the 
 
 ## Taos Mountain - Senior DevOps Consultant
 
-Most of my time was spent providing *DevOps services to diverse clients*, with a focus on **automation and hardening**. Placements were typically *rescue engagements*---clients called Taos in after something had already gone wrong, whether a network needing to be hardened after a cyberattack or a program that was weeks from cancellation. When things were slower, I assisted with various internal company projects.
+Most of my time was spent providing *DevOps services to diverse clients*, with a focus on **automation and hardening**. Placements were typically *rescue engagements*\-\-\-clients called Taos in after something had already gone wrong\, whether a network needing to be hardened after a cyberattack or a program that was weeks from cancellation\. When things were slower\, I assisted with various internal company projects\.
 
 **Internal Operations:**
 
@@ -395,7 +395,7 @@ I developed specialized software for auditors conducting risk assessments and pe
 * Contributed to the Technology Risk Assessment Calculator (TRAC) utility, used to complete audits
 * Developed the first web-based version of TRAC, eliminating many customer-visible performance issues
 * Created a USB-based phishing utility that enabled auditors to safely identify users needing additional training
-* Wrote a mailing list plugin for the company website that yielded a ~20% increase in customer response rate
+* Wrote a mailing list plugin for the company website that yielded a \~20% increase in customer response rate
 
 **System Administration:**
 
@@ -442,6 +442,7 @@ My primary drive for pursuing certifications is to meet employment and volunteer
 # Presentations
 
 ## From Server Chaos to Order with SaltStack, SaltConf15
+
 Presented my experience using SaltStack to tame a chaotic server environment. I covered lessons learned, best practices, and provided practical tips for anyone undertaking a similar project.
 
 # Volunteer Experience
