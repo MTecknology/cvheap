@@ -1,4 +1,4 @@
-# Professional ExperienceFUZZY
+# Professional Experience
 
 ## Utah Broadband - Senior Systems Engineer
 
